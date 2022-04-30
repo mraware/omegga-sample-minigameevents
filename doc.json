@@ -1,0 +1,7 @@
+{
+  "name": "sample-minigameevents",
+  "description": "A typed safe Omegga plugin.",
+  "author": "Aware",
+  "config": {},
+  "commands": []
+}
